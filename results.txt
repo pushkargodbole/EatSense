@@ -1,0 +1,7 @@
+Glass: Precision = 75.40 Recall = 73.75
+Pebble: Precision = 80.73 Recall = 77.80
+hmic: Precision = 65.29 Recall = 66.94
+wmic: Precision = 65.04 Recall = 66.58
+Glass + Pebble: Precision = 82.72 Recall 81.77
+Glass + Pebble + hmic: Precision = 86.12 Recall 81.36
+Glass + Pebble + hmic + wmic: Precision = 83.44 Recall = 82.56
